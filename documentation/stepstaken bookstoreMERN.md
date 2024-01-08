@@ -55,7 +55,7 @@ ALSO DELETE src/app.css file
     npm i prop-types
 
 
-### create .env file in home directory of backend folder
+### create file named .env in home directory of backend folder
 
     export const PORT = 5555;
 
